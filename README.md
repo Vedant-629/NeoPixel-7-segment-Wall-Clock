@@ -7,7 +7,7 @@ A custom-built, Wi-Fi connected 4-digit digital wall clock using individually ad
 
 > Connect your phone to the clock's own Wi-Fi hotspot and configure everything — colors, brightness, Wi-Fi credentials, and timezone — from a sleek web interface. No app needed.
 
-![Project Image](images/clock.jpg)
+![Project Image](images/clock.jpeg)
 
 ---
 
