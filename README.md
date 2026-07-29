@@ -185,7 +185,7 @@ Each digit uses the standard 7-segment pattern (`a`–`g`), with 5 NeoPixels per
 
 ## 🖨️ Mechanical Design
 
-*(Add photos, STL files, and print settings here)*
+![Project Image](images/clock_3D_1.png)
 
 The enclosure mounts the LED strip in a 3D-printed frame designed in **Fusion 360**, with channels to diffuse each segment individually.
 
