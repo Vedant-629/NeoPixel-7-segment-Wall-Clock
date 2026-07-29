@@ -205,7 +205,8 @@ The enclosure mounts the LED strip in a 3D-printed frame designed in **Fusion 36
 
 ## 📸 Results
 
-*(Add demo photos and video link here)*
+![Project Image](images/clock.jpeg)
+![Project Video](images/clock_working.mp4)
 
 ---
 
